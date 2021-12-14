@@ -1,0 +1,44 @@
+﻿Personal information on the Find My Mobile service
+Phone number, Model Name, IMEI, MCC(Mobile Country Code), MNC(Mobile Network Code), CSC(Customer Software Configuration)
+,Galaxy J2 Prime,IMEI:352929092118110,724,04,ZTO
+Location information requested by Find My Mobile
+Latitude,Longitude,Time Requested
+-23.3953676,-51.9132041,2021-11-13 00:02:11
+-23.3953822,-51.9132116,2021-11-12 23:54:13
+-23.3953989,-51.9132155,2021-11-12 23:55:19
+-23.3953597,-51.913209,2021-11-12 23:52:40
+-23.392680000000002,-51.911345,2021-11-13 00:02:44
+-23.3954043,-51.9132183,2021-11-12 23:58:41
+
+
+Retrieve calls and messages history
+
+
+Lock information for Find My Mobile
+Contact number for returning call,Message on lock screen,Time Requested
+
+
+SIM card changed information
+Previous phone number,Current phone number, Changed on
+,,2020-10-31 23:03:01
+,,2020-10-31 23:03:04
+,,2020-10-31 23:05:03
+,,2020-10-31 23:07:11
+
+
+History of the Find My Mobile service
+Function, Date requested
+Ring,2021-11-12 23:55:03.0
+Unlock,2021-12-14 02:42:21.0
+Unlock,2021-12-14 02:44:25.0
+Unlock,2021-12-14 02:48:06.0
+Unlock,2021-12-14 02:49:04.0
+Extend battery life,2021-12-14 02:50:52.0
+Unlock,2021-12-14 02:54:32.0
+Unlock,2021-12-14 02:55:22.0
+Unlock,2021-12-14 02:59:08.0
+Ring,2021-12-14 03:00:35.0
+Unlock,2021-12-14 04:08:42.0
+Unlock,2021-12-14 04:10:11.0
+
+
